@@ -1,4 +1,4 @@
-# expense_tracker
+# Loanex
 
 A new Flutter project.
 
