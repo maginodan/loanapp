@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76509719502",
+    "project_id": "mobile-loan-app",
+    "storage_bucket": "mobile-loan-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76509719502:android:63caec1b2870d4fac7d99f",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv5zZs9aGE-L0FUY2UKAMK67irlgR3RzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
